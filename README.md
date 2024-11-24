@@ -40,7 +40,7 @@ Follow these instructions to get a copy of the project running on your local mac
    ```
 2. Navigate to the project directory:
    ```bash
-   cd viewstats-clone
+   cd MrBeast-s-ViewStats-Clone
    ```
 3. Open the `index.html` file in your browser:
    ```bash
@@ -51,8 +51,11 @@ Follow these instructions to get a copy of the project running on your local mac
 
 ## **File Structure**
 ```
-viewstats-clone/
-
+MrBeast-s-ViewStats-Clone/
+│
+├── images/
+│   └── viewstats-screenshot.png  # Screenshot of the project
+│
 ├── index.html                    # Main HTML file
 ├── style.css                     # CSS file for styling
 ├── README.md                     # Project documentation
